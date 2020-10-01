@@ -13,3 +13,5 @@
 - 🔭 I’m currently as blogger
 - 🌱 I’m currently learning in SMK Telkom Purwokerto
 
+
+<img src="https://komarev.com/ghpvc/?username=faresapn&color=blue&style=flat-square" align="right" />
