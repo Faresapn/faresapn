@@ -10,8 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faresapn&layout=compact)](https://github.com/faresapn/github-readme-stats)
 
-- 🔭 I’m currently as blogger
-- 🌱 I’m currently learning in SMK Telkom Purwokerto
+- 🔭 I’m currently as freelancer
 
 
 <img src="https://komarev.com/ghpvc/?username=faresapn&color=blue&style=flat-square" align="right" />
