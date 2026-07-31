@@ -127,14 +127,17 @@ Kumpulan aplikasi Android yang sudah jalan di production: sistem absensi, Point 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faresapn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=8B949E&count_private=true&include_all_commits=true" alt="stats">
-<img height="165" src="https://streak-stats.demolab.com?user=Faresapn&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=8B949E&dates=6E7681" alt="streak">
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faresapn&theme=tokyonight" alt="ringkasan profil">
+
+<img height="185" src="https://streak-stats.demolab.com?user=Faresapn&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=8B949E&dates=6E7681" alt="streak">
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faresapn&theme=tokyonight" alt="statistik commit">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faresapn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=A78BFA&point=5EEAD4&area=true&area_color=00E5FF" alt="grafik aktivitas">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faresapn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=8B949E&langs_count=8" alt="bahasa">
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faresapn&theme=tokyonight" alt="bahasa per repo">
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faresapn&theme=tokyonight" alt="bahasa paling sering dipakai">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faresapn&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophy">
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faresapn&theme=tokyonight&utcOffset=7" alt="jam paling produktif">
 
 </div>
 
