@@ -27,9 +27,8 @@
 ```jsonc
 {
   "nama"        : "Faresa Prasetyo Nugroho",
-  "peran"       : "AI Engineer · ex-Android Developer",
+  "peran"       : "AI Engineer - Android Developer",
   "lokasi"      : "Jakarta, Indonesia",
-  "pengalaman"  : "3+ tahun di production",
   "spesialisasi": ["AI Agent Deployment", "Workflow Automation", "LLM Integration"],
   "andalan"     : ["n8n", "Python", "Kotlin", "Docker"],
   "kuliah"      : "S1 Informatika, Universitas Teknologi Yogyakarta (IPK 3.54)",
@@ -37,12 +36,13 @@
 }
 ```
 
-**Mulai dari Android. Sekarang bangun AI.**
+Aku mulai dari Android. Nulis Kotlin dengan MVVM dan Clean Architecture untuk KlikDokter, Telkom Indonesia, dan Komerce, dan fitur yang kubangun masuk ke aplikasi yang dipakai orang tiap hari.
 
-- **Babak 1 — Android.** Kotlin, MVVM, Clean Architecture. Kirim fitur ke production di KlikDokter, Telkom Indonesia, dan Komerce. Bukan demo — dipakai orang sungguhan.
-- **Babak 2 — AI.** Sekarang AI Engineer di sebuah AI agency di Jakarta. Merancang pipeline AI end-to-end: webhook masuk, hasil keluar, nol sentuhan manual.
-- **Yang kubawa dari Android ke AI:** arsitektur rapi, error handling yang serius, dan sistem yang tetap hidup walau tidak ditungguin.
-- Riset **AR e-commerce** terbit di jurnal JINTEKS. Sekarang mendalami **arsitektur multi-agent** — sistem yang memutuskan sendiri.
+Sekarang aku AI Engineer di sebuah AI agency di Jakarta. Kerjaan hariannya bikin pipeline AI yang jalan sendiri, dari webhook masuk sampai output jadi.
+
+Belakangan aku lagi banyak riset bikin AI agent untuk macam-macam keperluan: bug bounty, trading automation, LP automation, dan beberapa lagi yang masih digodok.
+
+Kebiasaan dari Android masih kebawa sampai sekarang: struktur kode yang jelas, error handling yang niat, dan sistem yang nggak rewel pas ditinggal. Riset AR e-commerce-ku juga sempat terbit di jurnal JINTEKS.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:5EEAD4,100:A78BFA&height=3" width="100%">
 
