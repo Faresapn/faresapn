@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-labelledby="t d">
+<title id="t">Faresa Prasetyo Nugroho — AI Engineer</title>
+<desc id="d">Banner animasi bertema pipeline AI agent</desc>
+
+<defs>
+  <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00E5FF"/>
+    <stop offset="55%" stop-color="#5EEAD4"/>
+    <stop offset="100%" stop-color="#A78BFA"/>
+  </linearGradient>
+  <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00E5FF"/>
+    <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="glowRad">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="3.2"/>
+  </filter>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+    <circle cx="1.5" cy="1.5" r="1.1" fill="#1F6FEB" opacity="0.28"/>
+  </pattern>
+  <clipPath id="typeClip"><rect id="typeRect" x="52" y="186" width="0" height="26"/></clipPath>
+  <clipPath id="frame"><rect x="0" y="0" width="1000" height="280" rx="18"/></clipPath>
+
+  <path id="pA" d="M712,140 C748,140 762,72 798,72"/>
+  <path id="pB" d="M712,140 C748,140 762,208 798,208"/>
+  <path id="pC" d="M798,72 C834,72 850,140 886,140"/>
+  <path id="pD" d="M798,208 C834,208 850,140 886,140"/>
+</defs>
+
+<style>
+  .bg { fill: #0D1117; }
+  .nm { font-family: "Segoe UI", Roboto, Ubuntu, Helvetica, sans-serif; font-weight: 700; }
+  .mn { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+
+  #grid { animation: drift 22s linear infinite; }
+  @keyframes drift { to { transform: translate(-26px, -26px); } }
+
+  #nameText { opacity: 0; animation: rise 1s ease-out 0.15s forwards; }
+  #roleText { opacity: 0; animation: rise 1s ease-out 0.5s forwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+
+  #typeRect { animation: type 3.4s steps(34) 1.1s infinite; }
+  @keyframes type { 0% { width: 0; } 55% { width: 420px; } 92% { width: 420px; } 100% { width: 0; } }
+
+  #caret { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+
+  #sweep { animation: sweep 4.5s ease-in-out infinite; }
+  @keyframes sweep { 0% { transform: translateX(-340px); } 100% { transform: translateX(1000px); } }
+
+  .ring { transform-box: fill-box; transform-origin: center; animation: pulse 2.6s ease-out infinite; }
+  @keyframes pulse { 0% { transform: scale(0.7); opacity: 0.75; } 100% { transform: scale(2.4); opacity: 0; } }
+
+  .chip { opacity: 0; animation: rise 0.7s ease-out forwards; }
+  .c1 { animation-delay: 1.5s; } .c2 { animation-delay: 1.7s; }
+  .c3 { animation-delay: 1.9s; } .c4 { animation-delay: 2.1s; }
+
+  .edge { stroke: #30363D; stroke-width: 2; fill: none; }
+  .node { fill: #0D1117; stroke: #00E5FF; stroke-width: 2; }
+</style>
+
+<g clip-path="url(#frame)">
+  <rect class="bg" width="1000" height="280"/>
+  <rect id="grid" x="-30" y="-30" width="1080" height="360" fill="url(#dots)"/>
+  <ellipse cx="850" cy="140" rx="230" ry="170" fill="url(#glowRad)"/>
+
+  <text id="nameText" class="nm" x="52" y="108" font-size="40" letter-spacing="1.5" fill="url(#nameGrad)">FARESA PRASETYO NUGROHO</text>
+  <text id="roleText" class="mn" x="54" y="142" font-size="17" letter-spacing="2.5" fill="#8B949E">AI ENGINEER  //  SOFTWARE DEVELOPER</text>
+
+  <g clip-path="url(#typeClip)">
+    <text class="mn" x="52" y="205" font-size="17" fill="#5EEAD4">&gt; building autonomous AI agents_</text>
+  </g>
+  <rect id="caret" x="52" y="188" width="9" height="21" fill="#00E5FF" opacity="0.85"/>
+
+  <g class="mn" font-size="12">
+    <g class="chip c1"><rect x="52" y="228" width="66" height="24" rx="12" fill="#132E36"/><text x="85" y="244" fill="#5EEAD4" text-anchor="middle">n8n</text></g>
+    <g class="chip c2"><rect x="126" y="228" width="66" height="24" rx="12" fill="#132E36"/><text x="159" y="244" fill="#5EEAD4" text-anchor="middle">LLM</text></g>
+    <g class="chip c3"><rect x="200" y="228" width="80" height="24" rx="12" fill="#1E1B3A"/><text x="240" y="244" fill="#A78BFA" text-anchor="middle">Python</text></g>
+    <g class="chip c4"><rect x="288" y="228" width="80" height="24" rx="12" fill="#1E1B3A"/><text x="328" y="244" fill="#A78BFA" text-anchor="middle">Kotlin</text></g>
+  </g>
+
+  <use href="#pA" class="edge"/><use href="#pB" class="edge"/>
+  <use href="#pC" class="edge"/><use href="#pD" class="edge"/>
+  <path class="edge" d="M886,140 L950,140"/>
+
+  <circle r="4" fill="#00E5FF" filter="url(#soft)">
+    <animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#pA"/></animateMotion>
+  </circle>
+  <circle r="4" fill="#00E5FF" filter="url(#soft)">
+    <animateMotion dur="2.2s" begin="0.5s" repeatCount="indefinite"><mpath href="#pB"/></animateMotion>
+  </circle>
+  <circle r="4" fill="#A78BFA" filter="url(#soft)">
+    <animateMotion dur="2.2s" begin="1.1s" repeatCount="indefinite"><mpath href="#pC"/></animateMotion>
+  </circle>
+  <circle r="4" fill="#A78BFA" filter="url(#soft)">
+    <animateMotion dur="2.2s" begin="1.6s" repeatCount="indefinite"><mpath href="#pD"/></animateMotion>
+  </circle>
+
+  <circle class="ring" cx="712" cy="140" r="13" fill="none" stroke="#00E5FF" stroke-width="1.5"/>
+  <circle class="ring" cx="886" cy="140" r="13" fill="none" stroke="#A78BFA" stroke-width="1.5" style="animation-delay:1.3s"/>
+
+  <circle class="node" cx="712" cy="140" r="13"/>
+  <circle class="node" cx="798" cy="72" r="11"/>
+  <circle class="node" cx="798" cy="208" r="11"/>
+  <circle class="node" cx="886" cy="140" r="13" stroke="#A78BFA"/>
+  <circle cx="950" cy="140" r="6" fill="#5EEAD4"/>
+
+  <text class="mn" x="712" y="118" font-size="10" fill="#6E7681" text-anchor="middle">trigger</text>
+  <text class="mn" x="886" y="118" font-size="10" fill="#6E7681" text-anchor="middle">agent</text>
+
+  <rect id="sweep" x="0" y="276" width="340" height="4" fill="url(#lineGrad)"/>
+</g>
+</svg>
