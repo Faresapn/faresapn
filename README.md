@@ -11,11 +11,11 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Merancang+AI+agent+yang+jalan+sendiri;n8n+%C2%B7+LLM+Integration+%C2%B7+Prompt+Engineering;3%2B+tahun+kirim+aplikasi+ke+production;Android+%E2%86%92+Backend+%E2%86%92+AI+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Android+Developer+%E2%86%92+AI+Engineer;Bangun+pipeline+AI+di+AI+agency%2C+Jakarta;n8n+%C2%B7+LLM+Integration+%C2%B7+Prompt+Engineering;Kotlin+yang+rapi%2C+AI+yang+jalan+sendiri)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Faresapn&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&labelColor=0D1117" alt="views">
 <img src="https://img.shields.io/github/followers/Faresapn?label=FOLLOWERS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="followers">
-<img src="https://img.shields.io/badge/PURBALINGGA-INDONESIA-5EEAD4?style=for-the-badge&labelColor=0D1117" alt="lokasi">
+<img src="https://img.shields.io/badge/JAKARTA-INDONESIA-5EEAD4?style=for-the-badge&labelColor=0D1117" alt="lokasi">
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-3FB950?style=for-the-badge&labelColor=0D1117" alt="status">
 
 </div>
@@ -27,20 +27,22 @@
 ```jsonc
 {
   "nama"        : "Faresa Prasetyo Nugroho",
-  "peran"       : "AI Engineer / Software Developer",
-  "lokasi"      : "Purbalingga, Jawa Tengah",
+  "peran"       : "AI Engineer · ex-Android Developer",
+  "lokasi"      : "Jakarta, Indonesia",
   "pengalaman"  : "3+ tahun di production",
   "spesialisasi": ["AI Agent Deployment", "Workflow Automation", "LLM Integration"],
   "andalan"     : ["n8n", "Python", "Kotlin", "Docker"],
   "kuliah"      : "S1 Informatika, Universitas Teknologi Yogyakarta (IPK 3.54)",
-  "sekarang"    : "Membangun pipeline AI otonom end-to-end"
+  "sekarang"    : "AI Engineer di AI agency — bangun pipeline AI produksi"
 }
 ```
 
-- Merancang **pipeline AI agent otonom** dengan n8n — dari webhook sampai output video, tanpa sentuhan manual
-- Latar belakang **Android engineering** yang kuat (Kotlin, MVVM, Clean Architecture) di KlikDokter, Telkom Indonesia, dan Komerce
-- Penelitian **AR e-commerce** terbit di jurnal JINTEKS
-- Lagi mendalami **arsitektur multi-agent** dan sistem yang bisa mengambil keputusan sendiri
+**Mulai dari Android. Sekarang bangun AI.**
+
+- **Babak 1 — Android.** Kotlin, MVVM, Clean Architecture. Kirim fitur ke production di KlikDokter, Telkom Indonesia, dan Komerce. Bukan demo — dipakai orang sungguhan.
+- **Babak 2 — AI.** Sekarang AI Engineer di sebuah AI agency di Jakarta. Merancang pipeline AI end-to-end: webhook masuk, hasil keluar, nol sentuhan manual.
+- **Yang kubawa dari Android ke AI:** arsitektur rapi, error handling yang serius, dan sistem yang tetap hidup walau tidak ditungguin.
+- Riset **AR e-commerce** terbit di jurnal JINTEKS. Sekarang mendalami **arsitektur multi-agent** — sistem yang memutuskan sendiri.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:5EEAD4,100:A78BFA&height=3" width="100%">
 
@@ -156,7 +158,8 @@ Kumpulan aplikasi Android yang sudah jalan di production: sistem absensi, Point 
 <br>
 
 ```
-2026  ●  AI Engineer — pipeline AI otonom, n8n, LLM integration
+2026  ●  AI Engineer — AI agency, Jakarta
+      │     Bangun pipeline AI produksi: n8n, LLM integration, AI agent
       │
 2021  ●  Android & Web Developer — Freelance, Yogyakarta
  s.d. │     Android production + web company profile untuk klien
