@@ -16,7 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=Faresapn&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&labelColor=0D1117" alt="views">
 <img src="https://img.shields.io/github/followers/Faresapn?label=FOLLOWERS&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="followers">
 <img src="https://img.shields.io/badge/JAKARTA-INDONESIA-5EEAD4?style=for-the-badge&labelColor=0D1117" alt="lokasi">
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-3FB950?style=for-the-badge&labelColor=0D1117" alt="status">
 
 </div>
 
